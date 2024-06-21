@@ -33,5 +33,7 @@
                       
             📊 Output Chart
                   ![chartoutput](https://github.com/ARUN-S-CODER/PRODIGY_DS_01/assets/152777279/4f9ebbb0-1e7f-4d6a-b71c-d562e8254460)
+                  ![PRODIGY_DS_01](chartoutput)
+
 
            
