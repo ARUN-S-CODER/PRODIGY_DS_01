@@ -1,4 +1,5 @@
 📊 PRODIGY INFOTECH DATA SCIENCE INTERNSHIP
+      
        Task 01: Visualizing Data Distribution
             📄 Description
                         For this task, I was assigned to create a bar chart or histogram to visualize the distribution of a categorical or continuous variable. I chose                  to work with book publication data to demonstrate my ability to handle and visualize categorical data effectively.
