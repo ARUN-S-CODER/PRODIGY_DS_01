@@ -32,6 +32,5 @@
                       🔵 Analytical Skills: Strengthened ability to analyze categorical data and derive meaningful insights.
                       
             📊 Output Chart
-                  ![chartoutput](https://github.com/ARUN-S-CODER/PRODIGY_DS_01/assets/152777279/b9bbee0a-56f8-4de5-9685-456b2f5e7907)
-                  <img width=500 alt="png" src=https://github.com/ARUN-S-CODER/PRODIGY_DS_01/assets/152777279/b9bbee0a-56f8-4de5-9685-456b2f5e7907>
-                  
+            ![chartoutput](https://github.com/ARUN-S-CODER/PRODIGY_DS_01/assets/152777279/6ecf05c4-4ad6-44d1-b5b4-18316e7db46b)
+           
